@@ -81,4 +81,4 @@ pdf file graf.pdf
 ### PDF Files
 - graf.pdf
 ## Links
-- our github link https://github.com/BergerZvika/Problem-Solver.git
+- our github link https://github.com/JohnnieDavidov/Problem-Solver
