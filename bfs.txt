@@ -1,0 +1,48 @@
+		BFS
+Matrix1:
+Down (64) Down (66) Down (71) Down (75) Down (79) Down (89) Down (159) Down (172) Down (175) Right (187) Right (192)
+
+
+
+Matrix2:
+Down (32) Down (44) Down (57) Down (60) Down (80) Down (90) Down (92) Down (107) Down (120) Down (126) Down (132) Right (135) Down (154) Down (156) Down (161) Right (169) Right (183) Right (199) Right (206) Right (215) Right (221) Right (240) Right (252) Right (257)
+
+
+
+Matrix3:
+Down (23) Down (31) Down (35) Down (38) Down (39) Down (58) Down (63) Down (67) Down (77) Down (88) Down (103) Down (121) Down (141) Down (154) Down (165) Down (183) Down (184) Down (197) Down (209) Right (219)
+
+
+
+Matrix4:
+Down (20) Down (25) Down (31) Down (35) Down (45) Down (55) Down (69) Down (74) Down (85) Down (97) Down (99) Down (117) Down (133) Down (148) Down (155) Down (173) Down (174) Down (184) Down (200) Right (220) Down (234) Down (239) Left (252) Down (260) Down (270) Down (270)
+
+
+
+Matrix5:
+Down (14) Down (19) Down (31) Down (49) Down (52) Down (63) Down (71) Down (73) Right (73) Down (86) Down (88) Down (93) Down (110) Down (115) Down (115) Down (120) Down (127) Down (147) Down (158) Down (173) Down (188) Down (204) Down (219) Down (229) Down (236) Down (236) Down (238) Down (248) Down (254) Down (258) Right (275)
+
+
+
+Matrix6:
+Down (8) Down (14) Down (27) Down (30) Down (35) Down (43) Down (59) Down (66) Down (72) Down (80) Down (86) Down (90) Down (100) Down (106) Down (123) Down (123) Down (123) Down (131) Down (145) Down (158) Down (172) Down (186) Down (203) Down (216) Down (222) Down (232) Right (246) Down (253) Down (258) Down (269) Down (289) Down (308) Down (324) Down (332) Right (340) Right (347) Right (348) Right (361) Right (369) Right (387) Right (391) Down (401) Right (421) Right (435)
+
+
+
+Matrix7:
+Down (11) Right (29) Down (42) Down (47) Down (51) Down (53) Down (69) Down (78) Down (82) Down (89) Down (96) Down (110) Down (113) Down (114) Down (127) Down (144) Down (145) Down (146) Down (163) Right (164) Down (181) Down (195) Down (203) Down (204) Down (222) Down (230) Down (232) Down (241) Down (260) Down (278) Down (280) Down (283) Down (285) Down (305) Down (308) Down (322) Down (327) Down (346) Down (361) Down (363) Down (372) Right (382) Right (391) Right (394) Right (405) Right (420) Right (421) Right (432) Right (439) Right (448) Right (450) Right (470) Right (470) Right (478)
+
+
+
+Matrix8:
+Down (33) Down (51) Down (70) Down (81) Down (89) Down (100) Down (107) Down (109) Down (114) Down (115) Down (115) Down (126) Down (132) Down (152) Down (162) Down (173) Down (192) Right (206) Down (220) Down (228) Right (235) Down (243) Right (257) Down (262) Down (271) Down (282) Down (292) Down (310) Down (326) Down (341) Down (349) Down (354) Down (362) Down (378) Down (392) Down (411) Down (429) Down (434) Down (449) Down (449) Down (455) Down (455) Down (470) Right (478) Right (485) Right (486) Right (505) Right (510) Right (517) Right (534) Right (550) Right (565) Right (584) Right (594) Right (597) Right (616) Right (630) Right (645) Right (646) Down (662) Right (678) Right (682) Right (699) Right (702) Right (704) Down (711) Down (714) Right (726) Right (736) Right (738) Right (754) Right (760) Right (778) Right (780) Right (791) Down (811) Right (817) Right (823) Right (828) Right (842) Right (852) Right (855) Right (868) Right (875)
+
+
+
+Matrix9:
+Down (1) Right (11) Down (30) Down (35) Down (51) Down (66) Down (83) Down (102) Down (117) Down (133) Down (148) Down (157) Down (168) Down (183) Down (190) Down (209) Down (211) Down (213) Down (222) Down (233) Down (249) Down (256) Down (269) Down (284) Down (296) Down (298) Right (310) Down (317) Down (330) Down (347) Down (358) Down (377) Down (387) Down (403) Down (405) Right (409) Down (414) Down (422) Down (426) Down (434) Right (436) Right (438) Down (443) Right (455) Right (455) Down (455) Right (459) Right (470) Right (477) Right (496) Right (503) Right (519) Right (522) Right (536) Right (552) Right (559) Right (578) Right (598) Right (613) Right (626) Right (639) Right (647) Right (652) Right (653) Right (657) Right (675) Right (692) Right (706) Right (724) Right (728) Right (737) Right (748) Right (753) Right (771) Right (784) Right (801) Right (807) Right (813) Right (819)
+
+
+
+Matrix10:
+Down (15) Down (17) Down (31) Down (34) Down (39) Down (44) Down (55) Down (63) Down (81) Down (90) Down (109) Down (126) Down (140) Down (155) Down (161) Down (165) Down (174) Down (187) Down (191) Down (209) Down (210) Down (213) Down (223) Down (243) Down (263) Down (275) Down (291) Down (301) Down (305) Down (313) Down (324) Down (342) Down (347) Down (352) Down (359) Down (364) Down (372) Down (384) Down (403) Down (419) Down (436) Down (450) Down (459) Down (468) Down (475) Down (475) Down (487) Right (496) Down (511) Right (518) Right (529) Right (541) Right (548) Right (568) Right (573) Right (583) Right (587) Right (606) Right (621) Right (638) Right (648) Right (663) Right (683) Right (702) Right (702) Right (707) Right (723) Right (732) Right (751) Right (758) Right (765) Right (774) Right (783) Right (788) Right (800) Right (800) Right (812) Right (813) Right (814) Down (833) Right (833) Right (839) Right (849) Right (856) Right (869) Right (875) Right (887)

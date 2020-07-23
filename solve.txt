@@ -1,0 +1,80 @@
+Matrix1:
+BFS:				Num of Nodes: 12.	 cost: 192
+DFS:				Num of Nodes: 26.	 cost: 213
+BestFirstSearch:	Num of Nodes: 16.	 cost: 105
+AStar:				Num of Nodes: 16.	 cost: 105
+
+
+
+Matrix2:
+BFS:				Num of Nodes: 25.	 cost: 257
+DFS:				Num of Nodes: 33.	 cost: 303
+BestFirstSearch:	Num of Nodes: 27.	 cost: 178
+AStar:				Num of Nodes: 27.	 cost: 176
+
+
+
+Matrix3:
+BFS:				Num of Nodes: 21.	 cost: 219
+DFS:				Num of Nodes: 57.	 cost: 570
+BestFirstSearch:	Num of Nodes: 21.	 cost: 160
+AStar:				Num of Nodes: 21.	 cost: 160
+
+
+
+Matrix4:
+BFS:				Num of Nodes: 27.	 cost: 270
+DFS:				Num of Nodes: 75.	 cost: 715
+BestFirstSearch:	Num of Nodes: 29.	 cost: 185
+AStar:				Num of Nodes: 29.	 cost: 185
+
+
+
+Matrix5:
+BFS:				Num of Nodes: 32.	 cost: 275
+DFS:				Num of Nodes: 90.	 cost: 931
+BestFirstSearch:	Num of Nodes: 42.	 cost: 230
+AStar:				Num of Nodes: 34.	 cost: 231
+
+
+
+Matrix6:
+BFS:				Num of Nodes: 45.	 cost: 435
+DFS:				Num of Nodes: 97.	 cost: 838
+BestFirstSearch:	Num of Nodes: 47.	 cost: 293
+AStar:				Num of Nodes: 47.	 cost: 293
+
+
+
+Matrix7:
+BFS:				Num of Nodes: 55.	 cost: 478
+DFS:				Num of Nodes: 105.	 cost: 1049
+BestFirstSearch:	Num of Nodes: 65.	 cost: 342
+AStar:				Num of Nodes: 59.	 cost: 331
+
+
+
+Matrix8:
+BFS:				Num of Nodes: 85.	 cost: 875
+DFS:				Num of Nodes: 93.	 cost: 875
+BestFirstSearch:	Num of Nodes: 87.	 cost: 414
+AStar:				Num of Nodes: 87.	 cost: 419
+
+
+
+Matrix9:
+BFS:				Num of Nodes: 80.	 cost: 819
+DFS:				Num of Nodes: 96.	 cost: 950
+BestFirstSearch:	Num of Nodes: 80.	 cost: 423
+AStar:				Num of Nodes: 80.	 cost: 423
+
+
+
+Matrix10:
+BFS:				Num of Nodes: 88.	 cost: 887
+DFS:				Num of Nodes: 98.	 cost: 933
+BestFirstSearch:	Num of Nodes: 92.	 cost: 460
+AStar:				Num of Nodes: 92.	 cost: 460
+
+
+
